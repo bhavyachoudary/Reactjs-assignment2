@@ -1,0 +1,66 @@
+label{
+    font-style: italic;
+    font-size:22px;
+    font-weight: bold;
+    color:purple;
+}
+.bg-con{
+    background-image: linear-gradient(pink,pink);
+}
+.brd{
+    border: 5px solid gold;
+}
+.app-head{
+    color: crimson;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+.male{
+    font-size: 20px;
+    color: darkolivegreen;
+    font-weight: 700;
+}
+.int{
+    font-size: 21px;
+    color: darkolivegreen;
+    font-weight: 700;
+}
+.occ{
+    border: 2px solid gray;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
+.form-control{
+    width: 30%;
+}
+.tab{
+    width:80%;
+    text-align: center;
+    background-color:khaki
+}
+th{
+    font-weight: bold;
+    color: crimson;
+    font-size: 25px;
+}
+td{
+    color: darkslategrey;
+    font-weight: 500;
+
+}
+.emp{
+color: forestgreen;
+font-style: italic;
+font-weight: bold;
+text-align: center;
+font-size: 40px;
+}
+.card1{
+    min-height:300px
+}
+.bg-con1{
+    background-image: linear-gradient(gray,pink);
+}

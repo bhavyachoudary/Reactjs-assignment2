@@ -1,0 +1,25 @@
+{
+    "CartItem":[
+        {"id":1,"pname":"Shoe","pprice":1099,"pquantity":1,"image":"bag1.png"},
+        {"id":2,"pname":"Bag","pprice":2099,"pquantity":1,"image":"bag1.png"},
+        {"id":3,"pname":"Jacket","pprice":3099,"pquantity":1,"image":"bag1.png"},
+        {"id":4,"pname":"laptop","pprice":100099,"pquantity":1,"image":"laptop.png"},
+        {"id":5,"pname":"dress","pprice":2099,"pquantity":1,"image":"laptop.png"},
+        {"id":6,"pname":"shirt","pprice":1099,"pquantity":1,"image":"laptop.png"},
+        {"id":7,"pname":"toy","pprice":2000,"pquantity":1,"image":"sports.png"},
+        {"id":8,"pname":"slim-bag","pprice":1099,"pquantity":1,"image":"slin.png"},
+        {"id":9,"pname":"Jadeplant","pprice":499,"pquantity":1,"image":"sports.png"},
+        {"id":10,"pname":"watch","pprice":5999,"pquantity":1,"image":"slin.png"},
+        {"id":11,"pname":"sports_shoe","pprice":4099,"pquantity":1,"image":"sports.png"},
+        {"id":12,"pname":"T-shirt","pprice":1099,"pquantity":1,"image":"slin.png"},
+        {"id":13,"pname":"Sony-Tv","pprice":500000,"pquantity":1,"image":"sports.png"},
+        {"id":14,"pname":"Mobile","pprice":10000,"pquantity":1,"image":"mobile1.png"},
+        {"id":15,"pname":"MoneyPlant","pprice":199,"pquantity":1,"image":"moneypant.png"},
+        {"id":16,"pname":"watch","pprice":3500,"pquantity":1,"image":"bag2.png"},
+        {"id":17,"pname":"tab","pprice":150000,"pquantity":1,"image":"tab.png"},
+        {"id":18,"pname":"ear-phones","pprice":899,"pquantity":1,"image":"ear.png"},
+        {"id":19,"pname":"headset","pprice":1500,"pquantity":1,"image":"bag1.png"},
+        {"id":20,"pname":"book","pprice":399,"pquantity":1,"image":"book2.png"}
+
+    ]
+}
